@@ -1,2 +1,3 @@
-# PythonicLeetCode
-This repository  contains my Python solutions to LeetCode problems. I'm on a journey to improve my problem-solving skills and explore different approaches using Python. The code strives for clarity, efficiency, and readability, with comments explaining the logic behind each solution.
+# Welcome to my LeetCode Python Adventure!
+
+This is where I keep my Python code for all the LeetCode problems I've tackled so far. I'm using this to improve my coding skills, especially with data structures and algorithms.
