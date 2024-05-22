@@ -12,18 +12,18 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 
 ## Strings
 
-| **S#** | **Question#** |                             **Level**                              |                                **Questions**                                | **Solution** |
-| :----: | :-----------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------------: | :----------: |
-| **01** |      771      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/> |    [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)    |              |
-| **02** |      520      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/> |       [Detect Capital](https://leetcode.com/problems/detect-capital/)       |              |
-| **03** |     2129      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/> | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) |              |
-| **04** |               |                                                                    |                                                                             |              |
+| **S#** | **Question#** |                             **Level**                              |                                **Questions**                                |                                                  **Solution**                                                   |
+| :----: | :-----------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| **01** |      771      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/> |    [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)    | [Jewels and Stones](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Jewels%20and%20Stones.py) |
+| **02** |      520      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/> |       [Detect Capital](https://leetcode.com/problems/detect-capital/)       |                                                                                                                 |
+| **03** |     2129      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/> | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) |                                                                                                                 |
+| **04** |               |                                                                    |                                                                             |                                                                                                                 |
 
 # Arrays
 
 | **S#** | **Question#** |                                **Level**                                 |                                                    **Questions**                                                    |                                                     **Solution\*\***                                                      |
 | :----: | :-----------: | :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| **01** |       1       |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                                  [Two Sum](https://leetcode.com/problems/two-sum/)                                  |
+| **01** |       1       |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                                  [Two Sum](https://leetcode.com/problems/two-sum/)                                  |                 [Two Sum](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Two%20Sum.py)                 |
 | **02** |     1929      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                   [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                   | [Concatenation of Array](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Concatenation%20of%20Array.py) |
 | **03** |      217      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                       [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                       |
 | **04** |      448      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |
