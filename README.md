@@ -21,7 +21,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 
 # Arrays
 
-| **S#** | **Question#** |                                **Level**                                 |                                                    **Questions**                                                    |                                                     **Solution\*\***                                                      |
+| **S#** | **Question#** |                                **Level**                                 |                                                    **Questions**                                                    |                                                     **Solution**                                                      |
 | :----: | :-----------: | :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
 | **01** |       1       |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                                  [Two Sum](https://leetcode.com/problems/two-sum/)                                  |                 [Two Sum](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Two%20Sum.py)                 |
 | **02** |     1929      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                   [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                   | [Concatenation of Array](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Concatenation%20of%20Array.py) |
@@ -42,7 +42,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 
 | **S#** | **Question#** |                                **Level**                                 |                                                **Questions**                                                | **Solutions** |
 | :----: | :-----------: | :----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------: |
-| **01** |     1441      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) |               |
-| **02** |     2390      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> |         [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)         |               |
+| **01** |1441|<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) |               |
+| **02** |2390| <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)         |               |
 | **03** |               |                                                                          |                                                                                                             |               |
 | **04** |               |                                                                          |                                                                                                             |               |
