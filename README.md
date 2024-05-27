@@ -40,7 +40,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **13** |     1480      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |                  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                  |                                                                                                                                                                     |
 | **14** |     1295      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |  [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [Find Numbers with Even Number of Digits](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) |
 | **15** |      349      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |               [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)               |                 [Intersection of Two Arrays](https://github.com/aamna-ansari/PythonicLeetCode/blob/main/Arrays/Intersection%20of%20Two%20Arrays.py)                 |
-
+| **16** |      1365      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |               [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   |              |
 # Stack
 
 | **S#** | **Question#** |                                **Level**                                 |                                                **Questions**                                                | **Solutions** |
