@@ -47,7 +47,9 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **14** |     1295      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |  [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [Find Numbers with Even Number of Digits](https://leetcode.com/submissions/detail/1258736668/) |
 | **15** |      349      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |               [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)               | [Intersection of Two Arrays](https://leetcode.com/submissions/detail/1265884785/)|
 | **16** |      1365     |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |  [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/submissions/detail/1269472108/)            |
-| **16** |      912      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  |[Sort an Array]() |  [Sort an Array]()            |
+| **17** |      136      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |[Single Number](https://leetcode.com/problems/single-number/description/) |  [Single Number](https://leetcode.com/submissions/detail/1275243818/)            |
+| **18** |      268      |    <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>    |[Missing Number](https://leetcode.com/problems/missing-number/description/) |  [Missing Number](https://leetcode.com/submissions/detail/1275243818/)            |
+| **18** |      912      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  |[Sort an Array]() |  [Sort an Array]()            |
 # Stack
 
 | **S#** | **Question#** |                                **Level**                                 |                                                **Questions**                                                | **Solutions** |
