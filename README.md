@@ -34,10 +34,8 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **17** |      67       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                            | [Add Binary](https://leetcode.com/submissions/detail/1292033255/)                                               |
 | **18** |      43       | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)                                                                | [Multiply Strings](https://leetcode.com/submissions/detail/1292015203/)                                         |
 | **19** |      2785     | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)                                                  | [Sort Vowels in a String](https://leetcode.com/submissions/detail/1318780724/)                                  |
-| 
+
 </details>
-
-
 
 
 <details>
