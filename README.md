@@ -10,6 +10,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 
 # LeetCode Solution Tracker
 
+
 ## Strings
 
 | **S#** | **Question#** |                             **Level**                                    |                                         **Questions**                                                                                          |                                                                 **Solutions**                                   |
@@ -67,9 +68,13 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **02** |     2390      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                    | [Removing Stars From a String](https://leetcode.com/submissions/detail/1263249505/)                             |                                                                                                               |
 | **03** |     844       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)                                                | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/1324152891/)      |                                                                                                               |
 
-# Two Pointers
+<details>
+  <summary><h1>Two Pointers</h1></summary>
+
 | **S#** | **Question#** |                                **Level**                                 |                                                **Questions**                                                                                   |                                                     **Solutions**                                               |
 | :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------:  | :-------------------------------------------------------------------------------------------------------------: |
 | **01** |       283     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                          | [Move Zeroes](https://leetcode.com/submissions/detail/1321388819/)                                              |
 | **02** |       917     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)                                                        | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/submissions/1322607325/)              |
 | **03** |       26      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                          | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1324123246/)                                           |
+
+</details>
