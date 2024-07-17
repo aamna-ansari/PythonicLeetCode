@@ -10,8 +10,8 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 
 # LeetCode Solution Tracker
 
-
-## Strings
+<details>
+  <summary><h1>String</h1></summary>
 
 | **S#** | **Question#** |                             **Level**                                    |                                         **Questions**                                                                                          |                                                                 **Solutions**                                   |
 | :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------:  | :----------------------------------------------------------------------------------------------------:          |
@@ -34,8 +34,15 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **17** |      67       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                            | [Add Binary](https://leetcode.com/submissions/detail/1292033255/)                                               |
 | **18** |      43       | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)                                                                | [Multiply Strings](https://leetcode.com/submissions/detail/1292015203/)                                         |
 | **19** |      2785     | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)                                                  | [Sort Vowels in a String](https://leetcode.com/submissions/detail/1318780724/)                                  |
-| **20** |      387      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                        | [First Unique Character in a String](https://leetcode.com/submissions/detail/1317627089/)                       |
-# Arrays
+| 
+</details>
+
+
+
+
+<details>
+  <summary><h1>Arrays</h1></summary>
+
 
 | **S#** | **Question#** |                                **Level**                                 |                                                    **Questions**                                                                               |                                                                            **Solutions**                                                                             
 | :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------:                          | :--------------------------------------------------------------------------------------------------------------:|
@@ -60,13 +67,22 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **19** |     2489      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)  | [Append Characters to String to Make Subsequence](https://leetcode.com/submissions/detail/1276476036/)          |
 | **20** |      260      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Single Number III](https://leetcode.com/problems/single-number-iii/description/)                                                              | [Single Number III](https://leetcode.com/submissions/detail/1276926025/)                                        |
 | **21** |      287      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                          | [Find the Duplicate Number](https://leetcode.com/submissions/detail/1320380206/)                                |
-# Stack
+
+</details>
+
+
+<details>
+  <summary><h1>Stack</h1></summary>
 
 | **S#** | **Question#** |                                **Level**                                 |                                                **Questions**                                                                                   |                                                     **Solutions**                                               |
 | :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------:  | :-------------------------------------------------------------------------------------------------------------: |
 | **01** |     1441      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)                                    | [Build an Array With Stack Operations](https://leetcode.com/submissions/detail/1258282185/)                     |
 | **02** |     2390      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                    | [Removing Stars From a String](https://leetcode.com/submissions/detail/1263249505/)                             |                                                                                                               |
 | **03** |     844       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)                                                | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/1324152891/)      |                                                                                                               |
+
+</details>
+
+
 
 <details>
   <summary><h1>Two Pointers</h1></summary>
