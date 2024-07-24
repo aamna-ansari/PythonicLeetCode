@@ -65,6 +65,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **19** |     2489      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)  | [Append Characters to String to Make Subsequence](https://leetcode.com/submissions/detail/1276476036/)          |
 | **20** |      260      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Single Number III](https://leetcode.com/problems/single-number-iii/description/)                                                              | [Single Number III](https://leetcode.com/submissions/detail/1276926025/)                                        |
 | **21** |      287      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                          | [Find the Duplicate Number](https://leetcode.com/submissions/detail/1320380206/)                                |
+| **22** |      3151     |<img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>        | [Special Array I](https://leetcode.com/problems/special-array-i/description/)                                                                  | [ Special Array I](https://leetcode.com/problems/special-array-i/submissions/1331559986/)                       |
 
 </details>
 
