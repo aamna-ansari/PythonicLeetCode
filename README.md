@@ -35,6 +35,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **18** |      43       | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)                                                                | [Multiply Strings](https://leetcode.com/submissions/detail/1292015203/)                                         |
 | **19** |      2785     | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/)                                                  | [Sort Vowels in a String](https://leetcode.com/submissions/detail/1318780724/)                                  |
 | **20** |      345      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                            | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/)             |  
+| **21** |     2937      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/)                                                | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/submissions/1334381520/)      |  
 
 
 <details>
