@@ -38,6 +38,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **21** |     2937      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/)                                                | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/submissions/1334381520/)      |  
 | **22** |      151      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)                                              | [Reverse Words in a String](https://leetcode.com/submissions/detail/1335950671/)                                |  
 | **23** |     3046      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Split the Array](https://leetcode.com/problems/split-the-array/description/)                                                                  | [Split the Array](https://leetcode.com/problems/split-the-array/submissions/1337027927/)                        |  
+| **24** |     2788      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)                                            | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/submissions/1337039891/)  |  
 </details>
 
 
