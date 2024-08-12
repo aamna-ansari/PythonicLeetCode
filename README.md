@@ -75,6 +75,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **23** |      330      | <img src='https://img.shields.io/badge/Hard-darkred' alt='Hard'/>        | [Patching Array](https://leetcode.com/problems/patching-array/description/)                                                                    | [ Patching Array](https://leetcode.com/problems/patching-array/submissions/1290226837/)                               |
 | **24** |      238      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                        | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1340828923/)   |
 | **25** |      1913     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)        | [ Maximum Product Difference Between Two Pairs](https://leetcode.com/submissions/detail/1349016297/)                  |
+| **26** |     1859      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)                                                        | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/submissions/1353154203/)                    |
 
 
 </details>
