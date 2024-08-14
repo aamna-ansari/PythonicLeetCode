@@ -104,3 +104,14 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **03** |       26      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                          | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1324123246/)                                           |
 
 </details>
+
+
+<details>
+  <summary><h1>Linked List</h1></summary>
+
+| **S#** | **Question#** |                                **Level**                                 |                                                **Questions**                                                                                   |                                                     **Solutions**                                               |
+| :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------:  | :-------------------------------------------------------------------------------------------------------------: |
+| **01** |       876     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Middle node of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/description/)                                         | [Middle node of the linked list](https://leetcode.com/submissions/detail/1355030579/)                           |
+
+
+</details>
