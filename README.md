@@ -43,6 +43,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **26** |     819       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                                            | [Most Common Word](https://leetcode.com/submissions/detail/1339197713/)                                         |  
 | **27** |     412       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                                                                              | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                                               |  
 | **28** |     1408      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/)                                          | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/submissions/1358983174/)|  
+| **29** |     1689      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)                    | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/submissions/1369057004/)|  
 </details>
 
 
