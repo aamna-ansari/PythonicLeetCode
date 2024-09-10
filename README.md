@@ -78,6 +78,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **24** |      238      | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                        | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1340828923/)   |
 | **25** |      1913     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)        | [ Maximum Product Difference Between Two Pairs](https://leetcode.com/submissions/detail/1349016297/)                  |
 | **26** |     1859      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)                                                        | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/submissions/1353154203/)                    |
+| **27** |     35        | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                    | [Search Insert Position](https://leetcode.com/submissions/detail/1385401517/)                                         |
 
 
 </details>
