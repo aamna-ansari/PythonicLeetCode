@@ -80,6 +80,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **26** |     1859      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)                                                        | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/submissions/1353154203/)                    |
 | **27** |     35        | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                    | [Search Insert Position](https://leetcode.com/submissions/detail/1385401517/)                                         |
 | **28** |     830       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)                                              | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/submissions/1386584313/)          |
+| **29** |     643       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                            | [Maximum Average Subarray I](https://leetcode.com/submissions/detail/1432641823/)          |
 
 
 </details>
