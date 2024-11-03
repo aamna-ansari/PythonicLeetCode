@@ -109,7 +109,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **01** |       283     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                          | [Move Zeroes](https://leetcode.com/submissions/detail/1321388819/)                                              |
 | **02** |       917     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)                                                        | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/submissions/1322607325/)              |
 | **03** |       26      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                          | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1324123246/)                      |
-| **04** |      219      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                                                      | [Contains Duplicate II](https://leetcode.com/submissions/detail/1365747192/)                                    |
+| **04** |       219     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                                                      | [Contains Duplicate II](https://leetcode.com/submissions/detail/1365747192/)                                    |
 
 </details>
 
@@ -123,4 +123,14 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **02** |       206     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                          | [Reverse Linked List](https://leetcode.com/submissions/detail/1361411532/)                                      |
 | **03** |       83      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)                            | [Remove Duplicates from Sorted List](https://leetcode.com/submissions/detail/1373244355/)                       |
 | **04** |       203     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)                                          | [Remove Linked List Elements](https://leetcode.com/submissions/detail/1383140432/)                              |
+</details>
+
+
+<details>
+  <summary><h1>Dynamic Programming</h1></summary>
+
+| **S#** | **Question#** |                                **Difficulty**                                 |                                                **Questions**                                                                                        |                                                     **Solutions**                                               |
+| :----: | :-----------: | :----------------------------------------------------------------------:      | :-------------------------------------------------------------------------------------------------------------------------------------------:       | :-------------------------------------------------------------------------------------------------------------: |
+| **01** |      1671     | <img src='https://img.shields.io/badge/Hard-darkred' alt='Hard'/>             | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)   | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/submissions/detail/1438339445/)        |
+  
 </details>
