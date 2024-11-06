@@ -46,6 +46,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **29** |     1689      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)                    | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/submissions/1369057004/)|  
 | **30** |     2490      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/)                                                              | [Circular Sentence](https://leetcode.com/problems/circular-sentence/submissions/1440818220/)|  
 | **31** |     242       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1441608840/)|  
+| **32** |     884       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)                                          | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/submissions/1444996622/)|  
 </details>
 
 
