@@ -88,6 +88,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **29** |     643       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                            | [Maximum Average Subarray I](https://leetcode.com/submissions/detail/1432641823/)                                     |
 | **30** |     3011      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)                                          | [Find if Array Can Be Sorted](https://leetcode.com/submissions/detail/1444894390/)                                    |
 | **31** |     268       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                    | [Missing Number](https://leetcode.com/problems/missing-number/submissions/1447812899/)                                |
+| **32** |    1748       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)                                                    | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/submissions/1452459598/)                |
 
 
 </details>
