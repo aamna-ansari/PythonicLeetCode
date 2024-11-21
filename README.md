@@ -57,10 +57,11 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **40** |     1694      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)                                                      | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/submissions/1456096281/)                                                                                       |  
 | **41** |     1374      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Generate a String With Characters....](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)     | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/submissions/1456105433/)                     |                                           
 | **42** |     929       | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/)                                                    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/submissions/1459079109/)                                                                                     |                                           
+| **43** |     2062      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)                                        | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/submissions/1459089418/)                                                             |                                           
 </details>
 
 
-<details>
+<details> 
   <summary><h1>Arrays</h1></summary>
 
 | **S#** | **Question#** |                                **Difficulty**                                 |                                                    **Questions**                                                                               |                                                                            **Solutions**                                                                             
