@@ -134,6 +134,7 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **02** |       917     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)                                                        | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/submissions/1322607325/)              |
 | **03** |       26      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                          | [Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1324123246/)                      |
 | **04** |       219     | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                                                      | [Contains Duplicate II](https://leetcode.com/submissions/detail/1365747192/)                                    |
+| **05** |      1750     | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/> | [Minimum Length of String After....](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/)          | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/submissions/1461758594/)               |
 
 </details>
 
@@ -158,3 +159,4 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
 | **01** |      1671     | <img src='https://img.shields.io/badge/Hard-darkred' alt='Hard'/>             | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)   | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/submissions/detail/1438339445/)        |
   
 </details>
+
