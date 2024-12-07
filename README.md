@@ -167,3 +167,11 @@ This is where I keep my Python code for all the LeetCode problems I've tackled s
   
 </details>
 
+<details>
+  <summary><h1>Binary Search</h1></summary>
+
+| **S#** | **Question#** |                                **Difficulty**                                 |                                                **Questions**                                                                                        |                                                     **Solutions**                                               |
+| :----: | :-----------: | :----------------------------------------------------------------------:      | :-------------------------------------------------------------------------------------------------------------------------------------------:       | :-------------------------------------------------------------------------------------------------------------: |
+| **01** |      1760     | <img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>      | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)   | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/submissions/1472479220/)        |
+  
+</details>
